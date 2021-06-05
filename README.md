@@ -8,7 +8,7 @@ These are boards I've created mainly for personal use and to be able to develop 
 60% with the ability to be gasket mounted via strips, or used with a 5mm acrylic plate. Allows for standoffs.
 
 ### Epsilon
-TKL consisting of same design, 5mm acrylic plate only for now. Testing files are included in the repo, but DO NOT use them until they have moved.
+TKL consisting of same design, 5mm acrylic plate only for now. Gasket testing is underway.
 
 ### Upsilon
 CP1800, same design. 5mm acrylic plate as well as a relief cut 1.5mm plate + mid insert, PCB design is underway. Gasket mount may be coming at a later date.
