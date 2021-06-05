@@ -1,4 +1,4 @@
-# Alpha build guide
+# Epsilon build guide
 
 ### Acrylic sizes needed:
 
