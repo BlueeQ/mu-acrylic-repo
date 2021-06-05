@@ -1,6 +1,6 @@
 # Alpha build guide
 
-*** Acrylic sizes needed:
+**Acrylic sizes needed:
 
 Feet - 3mm
 Bottom - 3mm
@@ -14,7 +14,7 @@ Any type of foam or silicone can be used, this board was made for experimenting 
 different materials. Make sure you get something that can be compressed enough and is
 ~5mm or less than depending on compression of said material.
 
-*** Standoff sizes
+**Standoff sizes
 
 Lower standoffs - 
 Upper standoffs - 
