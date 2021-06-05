@@ -28,21 +28,21 @@ Feet go in ascending order, onto the bottom piece. Next is the bottom mid. Above
 
 ### Relief cut build
 
-Smallest foot
-Mid foot
-Largest foot
-Bottom
-Mid no USB
-Mid USB
-Relief cut plate
+Smallest foot, 
+Mid foot, 
+Largest foot, 
+Bottom, 
+Mid no USB, 
+Mid USB, 
+Relief cut plate, 
 Top
 
 ### Full acrylic build
 
-Smallest foot
-Mid foot
-Largest foot
-Bottom
-Mid no USB
-Acrylic plate
+Smallest foot, 
+Mid foot, 
+Largest foot, 
+Bottom, 
+Mid no USB, 
+Acrylic plate, 
 Top
