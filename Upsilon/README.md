@@ -2,8 +2,8 @@
 
 ### Acrylic sizes needed:
 
-Feet - 3mm
-Bottom - 3mm
+* Feet - 3mm
+* Bottom - 3mm
 Mid no USB - 5mm
 Mid USB (only required for relief cut) - 3mm
 Acrylic plate (only required for full acrylic) - 5mm
