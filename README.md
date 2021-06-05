@@ -17,3 +17,12 @@ CP1800, same design. 5mm acrylic plate as well as a relief cut 1.5mm plate + mid
 * Nu - Blockered 65%, both gasket and sandwich mount. Same design aspects.
 * Unnamed Alice - Same design, potentially gasket. 
 * Unnamed 75 - Same design, possibly split.
+
+### To do
+
+* Fix any errors that may be found over time.
+* Keep updating with new boards and mounting styles.
+
+### Final note
+
+I am providing these files free of charge, hence should anything happen during manufacturing or there are errors spotted, I am not one to be held accountable. Should you have any issues, please message me on discord at cinna#5464 and I can update the files ASAP.
