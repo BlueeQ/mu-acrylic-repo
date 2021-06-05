@@ -21,7 +21,7 @@ Lower standoffs -
 Upper standoffs - 
 Screw sizes - M3 * 
 
-Feet go in ascending order, onto the bottom piece. Next is the bottom mid. Above is mid usb or acrylic plate depending on your choice. Finally the top. Standoffs go inbetween top and bottom layers, with the ones towards the top being bigger to account for feet.
+Feet go in ascending order, onto the bottom piece. Next is the bottom mid. Above is mid usb + relief cut plate or acrylic plate depending on your choice. Finally the top. Standoffs go inbetween top and bottom layers, with the ones towards the top being bigger to account for feet.
 
 ### In more simple terms, starting from the bottom:
 
