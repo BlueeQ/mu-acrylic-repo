@@ -9,6 +9,7 @@ These are boards I've created mainly for personal use and to be able to develop 
 
 ### Epsilon
 TKL consisting of same design, 5mm acrylic plate only for now. Gasket testing is underway.
+<img src=https://cdn.discordapp.com/attachments/847571535815376938/850194407877640192/image0-1.jpg
 
 ### Upsilon
 CP1800, same design. 5mm acrylic plate as well as a relief cut 1.5mm plate + mid insert, PCB design is underway. Gasket mount may be coming at a later date.
@@ -25,4 +26,4 @@ CP1800, same design. 5mm acrylic plate as well as a relief cut 1.5mm plate + mid
 
 ### Final note
 
-I am providing these files free of charge, hence should anything happen during manufacturing or there are errors spotted, I am not one to be held accountable. Should you have any issues, please message me on discord at cinna#5464 and I can update the files ASAP.
+I am providing these files free of charge, hence should anything happen during manufacturing or there are errors spotted, I am not one to be held accountable. Should you have any issues, please message me on discord at cinna#5464 and I can update the files ASAP. More pics will be included in the future.
