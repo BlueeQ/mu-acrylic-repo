@@ -32,6 +32,6 @@ Feet go in ascending order, onto the bottom piece. Next is the bottom mid. Above
 
 ### Typing tests
 
-Acrylic plate - https://youtu.be/9bhwww4_kcY
-Gasket + PBT caps - https://youtu.be/gE-rqWvAcaQ
-Gasket + ABS caps - https://youtu.be/v6h2yQDoV24
+* Acrylic plate - https://youtu.be/9bhwww4_kcY
+* Gasket + PBT caps - https://youtu.be/gE-rqWvAcaQ
+* Gasket + ABS caps - https://youtu.be/v6h2yQDoV24
