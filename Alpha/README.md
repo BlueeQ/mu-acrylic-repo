@@ -8,7 +8,7 @@
 * Gasket mid (only required for gasket) - 5mm
 * Gasket plate (only required for gasket) - 1.5mm
 * 5mm plate (only required for full acrylic) - 5mm
-* Top WK/WKL - 8mm
+* Top WK/WKL/HHKB - 8mm
 
 Any type of foam or silicone can be used, this board was made for experimenting with
 different materials. Make sure you get something that can be compressed enough and is
