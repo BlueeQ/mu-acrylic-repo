@@ -36,3 +36,5 @@ Feet go in ascending order, onto the bottom piece. Next is the bottom mid. Above
 * Gasket + ABS caps - https://youtu.be/v6h2yQDoV24
 
 ### Please note that typing tests are not a realistic representation of a board.
+
+<img src=https://cdn.discordapp.com/attachments/811121740608045077/851358181808668683/Final_Files_2021-Jun-07_06-37-07AM-000_CustomizedView7533720803.png>
