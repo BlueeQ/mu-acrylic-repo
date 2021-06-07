@@ -23,3 +23,8 @@ different materials. Make sure you get something that can be compressed enough a
 Feet go in ascending order, onto the bottom piece. Next is the bottom mid. Above is the gasket mid or acrylic plate depending on which you choose to go for. Finally the top. Standoffs go inbetween top and bottom layers, with the ones towards the top being bigger to account for feet. Gasket strips can be applied to either the plate or bottom mid in between where the gasket mid has cut outs.
 
 # ONLY GET SOUTH FACING ENTER IF YOU HAVE A PCB THAT REQUIRES IT, MOST PCBS SUPPORT NORTH FACING.
+
+### To do:
+
+* Upload FR4 plates after changing cutout size, some switches too tight as of now.
+
