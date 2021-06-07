@@ -50,3 +50,4 @@ Feet go in ascending order, onto the bottom piece. Next is the bottom mid. Above
 ### Please note that typing tests are not a realistic representation of a board.
 
 <img src=https://cdn.discordapp.com/attachments/811121740608045077/851358181808668683/Final_Files_2021-Jun-07_06-37-07AM-000_CustomizedView7533720803.png>
+<img src=https://cdn.discordapp.com/attachments/811121740608045077/851365990897680384/Final_Files_2021-Jun-07_07-34-35AM-000_CustomizedView27278391242.png>
