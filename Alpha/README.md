@@ -26,7 +26,7 @@ Feet go in ascending order, onto the bottom piece. Next is the bottom mid. Above
 
 ### To do:
 
-* Upload FR4 plates after changing cutout size, some switches too tight as of now.
+* Upload FR4 plates after changing cutout size, some switches too tight as of now (mainly holy pandas).
 * Add renders of all top configurations.
 
 ### Typing tests
