@@ -36,4 +36,4 @@ Feet go in ascending order, onto the bottom piece. Next is the bottom mid. Above
 * Gasket + PBT caps - https://youtu.be/gE-rqWvAcaQ
 * Gasket + ABS caps - https://youtu.be/v6h2yQDoV24
 
-# Please note that typing tests are not a realistic representation of a board.
+### Please note that typing tests are not a realistic representation of a board.
