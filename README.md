@@ -16,7 +16,7 @@ TKL consisting of same design, 5mm acrylic plate only for now. Gasket testing is
 
 ### Upsilon
 CP1800, same design. 5mm acrylic plate as well as a relief cut 1.5mm plate + mid insert, PCB design is underway. Gasket mount may be coming at a later date.
-** please not this board has not been tested yet, use at your own risk
+### please do not make this board as has not been tested yet, use at your own risk should you so desire.
 
 <img src=https://cdn.discordapp.com/attachments/811121740608045077/850588700256501760/10dc4f97-3a6d-4d74-9dec-96cd8be2a822.PNG>
 
