@@ -8,6 +8,7 @@ These are boards I've created mainly for personal use and to be able to develop 
 60% with the ability to be gasket mounted via strips, or used with a 5mm acrylic plate. Allows for standoffs.
 
 <img src=https://cdn.discordapp.com/attachments/847571535815376938/848624265431351337/DSC01980-1.jpg>
+<img src=https://cdn.discordapp.com/attachments/811121740608045077/837632721210703872/unknown.png>
 
 ### Epsilon
 TKL consisting of same design, 5mm acrylic plate only for now. Gasket testing is underway.
