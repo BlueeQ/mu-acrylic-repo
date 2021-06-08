@@ -5,6 +5,13 @@
 * Gasket or 5mm acrylic, possibility of relief cut sandwich.
 * Same design as other boards.
 
+### To do (as of writing)
+
+* Check measurements again.
+* Add acoustic cutouts to plate.
+* Make 5mm plate file (easiest out of all).
+* Order prototype.
+
 ### Renders
 
 <img src=https://cdn.discordapp.com/attachments/591539164584083476/851709403929640970/nu_testing_2021-Jun-08_06-20-19AM-000_CustomizedView12512275072.png>
