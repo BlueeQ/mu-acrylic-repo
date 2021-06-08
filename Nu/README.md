@@ -2,7 +2,7 @@
 
 ### Features
 
-* Gasket or 5mm acrylic.
+* Gasket or 5mm acrylic, possibility of relief cut sandwich.
 * Same design as other boards.
 
 ### Renders
