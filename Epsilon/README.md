@@ -1,5 +1,9 @@
 # Epsilon build guide
 
+### Current issues being worked on
+
+* Needs cut adding on mid piece to allow for USB port to not touch it, will work as is but needs dremelling a little.
+
 ### Acrylic sizes needed:
 
 * Feet - 3mm
