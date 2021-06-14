@@ -4,6 +4,10 @@
 
 * Needs cut adding on mid piece to allow for USB port to not touch it, will work as is but needs dremelling a little.
 
+### Files notes
+
+Should you want the most compatibility with the board, you can go for Bottom (bottom USB) and the standard plate, these were made so that they are more aesthetically pleasing (mainly the plate), though it allows you to use either top or bottom mount USB in the future should you have to swap PCB, the choice is ultimately yours.
+
 ### Acrylic sizes needed:
 
 * Feet - 3mm
