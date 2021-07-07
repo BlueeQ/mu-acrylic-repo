@@ -1,6 +1,9 @@
 # μ-acrylic-repo
 μ series of boards in acrylic format
 
+
+### EPSILON HAS ISSUES, PLEASE DO NOT USE FOR THE TIME BEING UNTIL THIS IS REMOVED
+
 ### Introduction
 These are boards I've created mainly for personal use and to be able to develop boards with a similar design aesthetic to one another, varying mounting methods may apply for each board. Details on how to build will be within each description or folder.
 
