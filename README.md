@@ -30,6 +30,8 @@ CP1800, same design. 5mm acrylic plate as well as a relief cut 1.5mm plate + mid
 
 * Chi - Same design, gasket and sandwich mount. Standard alice layout. 
 <img src=https://cdn.discordapp.com/attachments/811121740608045077/862229188621631498/Mostly_final_files_2021-Jul-07_06-56-50AM-000_CustomizedView9688574862.png>
+<img src=https://cdn.discordapp.com/attachments/591539164584083476/863691404165251082/Mostly_final_files_2021-Jul-11_07-32-18AM-000_CustomizedView13531374630.png>
+<img src=https://cdn.discordapp.com/attachments/591539164584083476/863691406370799616/Mostly_final_files_2021-Jul-11_07-37-49AM-000_CustomizedView10316021754.png>
 
 * Unnamed 75 - Same design, possibly split. Layout likely similar to the G80-5000.
 
