@@ -25,7 +25,7 @@ Feet go in ascending order, onto the bottom piece. Next is the bottom mid. Above
 ### In more simple terms:
 
 * Smallest foot
-* Mid food
+* Mid foot
 * Largest foot
 * Bottom
 * Bottom mid
@@ -40,6 +40,7 @@ Feet go in ascending order, onto the bottom piece. Next is the bottom mid. Above
 * Add renders of all top configurations.
 * Update version number on the bottom piece.
 * Rerender last pics to have a transparent background.
+* Make USB cut out tighter.
 
 ### Typing tests
 
