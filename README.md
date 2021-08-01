@@ -12,6 +12,8 @@ These are boards I've created mainly for personal use and to be able to develop 
 ### Alpha
 60% with the ability to be gasket mounted via strips, or used with a 5mm acrylic plate. Allows for standoffs.
 
+* Typing test can be found [here] (https://www.youtube.com/watch?v=FunP_ofamhc)
+
 <img src=https://cdn.discordapp.com/attachments/847571535815376938/848624265431351337/DSC01980-1.jpg>
 <img src=https://cdn.discordapp.com/attachments/591539164584083476/851624472061673542/unknown_1.jpg>
 
