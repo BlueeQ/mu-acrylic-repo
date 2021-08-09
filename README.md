@@ -2,9 +2,7 @@
 μ series of boards in acrylic format
 
 
-# EPSILON HAS ISSUES, PLEASE DO NOT USE FOR THE TIME BEING UNTIL THIS IS REMOVED
-
-# These boards will likely be going through changes regarding the side bezels, they are too wide for my liking and as such will be made smaller. (For clarification, top bezels are 8mm, side bezels right now are 5mm)
+# Epsilon issues have been cleared.
 
 ### Introduction
 These are boards I've created mainly for personal use and to be able to develop boards with a similar design aesthetic to one another, varying mounting methods may apply for each board. Details on how to build will be within each description or folder.
