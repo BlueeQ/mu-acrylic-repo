@@ -44,7 +44,7 @@ CP1800, same design. 5mm acrylic plate as well as a relief cut 1.5mm plate + mid
 
 ### Sources for some measurements
 
-These were used for usb cut outs and stabilizers respectively, altered in some way.
+These were used for USB cut outs and stabilizers respectively, altered in some way.
 
 * Yuktsi's original A17 files
 * Zambumon's Lubrigante files
