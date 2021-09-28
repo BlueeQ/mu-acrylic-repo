@@ -34,6 +34,9 @@ Feet go in ascending order, onto the bottom piece. Next is the bottom mid. Above
 
 # ONLY GET SOUTH FACING ENTER IF YOU HAVE A PCB THAT REQUIRES IT, MOST PCBS SUPPORT NORTH FACING.
 
+### Notes on gaskets:
+I would recommend only putting the gaskets on the underside of the plate as to not mess with adding height in addition to the top layer, but feel free to experiment. This is not a board made to be set in stone.
+
 ### To do:
 
 * Upload FR4 plates after changing cutout size, some switches too tight as of now (mainly holy pandas).
