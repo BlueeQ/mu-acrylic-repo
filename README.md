@@ -51,4 +51,4 @@ These were used for USB cut outs and stabilizers respectively, altered in some w
 
 ### Final note
 
-I am providing these files free of charge, hence should anything happen during manufacturing or there are errors spotted, I am not one to be held accountable. Should you have any issues, please message me on discord at cinna#3698 and I can update the files ASAP. More pics will be included in the future. These files are likely always going to be WIP until they reach a level where issues are not reported. A lot of issues from previous protos have been fixed, but nothing is concrete.
+I am providing these files free of charge, hence should anything happen during manufacturing or there are errors spotted, I am not one to be held accountable. Should you have any issues, please message me on discord at cinna#4754 and I can update the files ASAP. More pics will be included in the future. These files are likely always going to be WIP until they reach a level where issues are not reported. A lot of issues from previous protos have been fixed, but nothing is concrete.
