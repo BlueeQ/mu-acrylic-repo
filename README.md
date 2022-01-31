@@ -2,7 +2,7 @@
 μ series of boards in acrylic format
 
 
-# Upsilon was deleted. Did not fit my design style. May be remade once a PCB design has been produced.
+# Upsilon was deleted. Did not fit my design style. Potentially will be remade once a PCB design has been produced.
 
 ### Introduction
 These are boards I've created mainly for personal use and to be able to develop boards with a similar design aesthetic to one another, varying mounting methods may apply for each board. Details on how to build will be within each description or folder.
