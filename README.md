@@ -2,11 +2,6 @@
 μ series of boards in acrylic format
 
 
-# Upsilon was deleted. Did not fit my design style. Potentially will be remade once a PCB design has been produced.
-
-### Introduction
-These are boards I've created mainly for personal use and to be able to develop boards with a similar design aesthetic to one another, varying mounting methods may apply for each board. Details on how to build will be within each description or folder.
-
 ### Alpha
 60% with the ability to be gasket mounted via strips, or used with a 5mm acrylic plate. Allows for standoffs.
 
@@ -24,12 +19,12 @@ TKL consisting of same design, 5mm acrylic plate only for now. Gasket testing is
 * Nu - Blockered 65%, both gasket and sandwich mount. Same design aspects.
 <img src=https://cdn.discordapp.com/attachments/811121740608045077/853239696393371658/8bfa81eb-ea19-4ec9-8785-f4d69e8f6d54.PNG>
 
+This has not been made, yet follows the same dimensions and fixes from the Alpha.
+
 * Chi - Same design, gasket and sandwich mount. Standard alice layout. 
 <img src=https://cdn.discordapp.com/attachments/811121740608045077/862229188621631498/Mostly_final_files_2021-Jul-07_06-56-50AM-000_CustomizedView9688574862.png>
 <img src=https://cdn.discordapp.com/attachments/591539164584083476/863691404165251082/Mostly_final_files_2021-Jul-11_07-32-18AM-000_CustomizedView13531374630.png>
 <img src=https://cdn.discordapp.com/attachments/591539164584083476/863691406370799616/Mostly_final_files_2021-Jul-11_07-37-49AM-000_CustomizedView10316021754.png>
-
-* Unnamed 75 - Same design, possibly split. Layout likely similar to the G80-5000.
 
 ### To do
 
