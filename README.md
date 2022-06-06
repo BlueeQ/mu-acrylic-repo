@@ -1,3 +1,5 @@
+#1.75u will not work on gasket plates, will update but v2 coming within the coming months.
+
 # μ-acrylic-repo
 μ series of boards in acrylic format
 
