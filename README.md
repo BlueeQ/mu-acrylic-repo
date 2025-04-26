@@ -16,6 +16,8 @@
 TKL consisting of same design, 5mm acrylic plate only for now. Gasket testing is underway.
 
 <img src=https://cdn.discordapp.com/attachments/847571535815376938/850194407877640192/image0-1.jpg>
+(Epsilon + Alpha)
+<img src=https://cdn.discordapp.com/attachments/725817247012093973/852686255681568838/image0.png>
 
 ### Upcoming designs
 * Nu - Blockered 65%, both gasket and sandwich mount. Same design aspects.
