@@ -10,19 +10,16 @@
 * Typing test can be found [here](https://www.youtube.com/watch?v=FunP_ofamhc)
 
 <img src=https://cdn.discordapp.com/attachments/847571535815376938/848624265431351337/DSC01980-1.jpg>
-<img src=https://cdn.discordapp.com/attachments/591539164584083476/851624472061673542/unknown_1.jpg>
+<img src=https://media.discordapp.net/attachments/884456372085870642/1365747614892687510/image0.png>
 
 ### Epsilon
 TKL consisting of same design, 5mm acrylic plate only for now. Gasket testing is underway.
 
 <img src=https://cdn.discordapp.com/attachments/847571535815376938/850194407877640192/image0-1.jpg>
 (Epsilon + Alpha)
-<img src=https://cdn.discordapp.com/attachments/725817247012093973/852686255681568838/image0.png>
-
-### Upcoming designs
+<img src=https://cdn.discordapp.com/attachments/725817247012093973/852686255681568838/image0.png?ex=680e10b5&is=680cbf35&hm=56a13f1931f618824f212f667797f1a6306bcd843354a3e1327b0f66da14787b&>
 * Nu - Blockered 65%, both gasket and sandwich mount. Same design aspects.
-<img src=https://cdn.discordapp.com/attachments/811121740608045077/853239696393371658/8bfa81eb-ea19-4ec9-8785-f4d69e8f6d54.PNG>
-
+<img src=https://media.discordapp.net/attachments/884456372085870642/1365747614892687510/image0.png?ex=680e6f15&is=680d1d95&hm=ba0282c0febe9e0c21a9881837683bda8d97c7510e2cc8f933603d82953afe55&=&format=webp&quality=lossless&width=1037&height=778>
 This has not been made, yet follows the same dimensions and fixes from the Alpha.
 
 * Chi - Same design, gasket and sandwich mount. Standard alice layout. 
