@@ -1,4 +1,4 @@
-#1.75u will not work on gasket plates, will update but v2 coming within the coming months.
+# Pictures will be updated with more stable links in the coming weeks, with extra files added. Alpha and Epsilon are pretty stable from testing.
 
 # μ-acrylic-repo
 μ series of boards in acrylic format
